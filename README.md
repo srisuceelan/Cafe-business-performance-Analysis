@@ -8,7 +8,7 @@ An end-to-end data analytics project covering the full pipeline — **data acqui
 
 | Stage | Tool/Tech |
 |---|---|
-| Data Acquisition | 
+| Data Acquisition | Real time data |
 | Data Cleaning & Preparation | Python (Pandas, NumPy) |
 | Exploratory Data Analysis | Python (Pandas, Matplotlib/Seaborn) |
 | Business Problem Solving | MySQL| |
